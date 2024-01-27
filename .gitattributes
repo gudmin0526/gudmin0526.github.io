@@ -1,4 +1,5 @@
-# Set default behavior to automatically normalize line endings.
+# Set default behavior to a
+omatically normalize line endings.
 * text=auto
 
 # Force bash scripts to always use LF line endings so that if a repo is accessed
