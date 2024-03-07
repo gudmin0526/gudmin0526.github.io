@@ -1,8 +1,7 @@
 ---
 title: "<기술 면접 대비 CS전공 핵심요약집>을 읽고"
 date: 2024-03-06 13:00:00 +0900
-categories: [리뷰, 도서]
-tags: [기술 면접]
+categories: [Review, Book]
 image:
   path: ../assets/img/book-tech-interview.jpg
   alt: https://thebook.io/080367 에서 일부 내용을 확인할 수 있습니다.
